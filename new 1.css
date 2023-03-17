@@ -293,8 +293,7 @@ color: pink;
  }
  
   .block-left42{
-
-height:  2275px;
+height:  1135px;
 width: 750px;
 float:left;
 font-family:Courier, monospace, sans-serif;
@@ -307,12 +306,13 @@ line-height:1;
  }
  .block-right42{
 
-height: 1135;
+height: 1135px;
 width: 750px;
 float:right;
 }
  .block-right42 img{ 
-
+height: 1135;
+width: 750px;
 }
 .content42 img{
 width:750px;
